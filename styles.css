@@ -1,0 +1,11 @@
+body {
+  background-color: pink;
+  text-align: left;
+}
+  
+.container {
+  width: 350px;
+  height: 520px;
+  background: white;
+  border-radius: 10px;
+}
