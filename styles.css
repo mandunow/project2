@@ -3,6 +3,9 @@ body {
   text-align: left;
 }
   
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
 .container {
   width: 350px;
   height: 520px;
