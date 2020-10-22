@@ -15,8 +15,13 @@ h2 {
 }
 
 button {
+  background-color: pink;
   color: white;
   padding: 12px 14px;
+  position: relative;
+  left: 190px;
+  bottom: 25px;
+  margin: 5px;
   cursor: pointer;
 }
 
@@ -28,7 +33,7 @@ button {
   overflow: hidden;
 }
 
-.like {
+/*.like {
   background-color: #f7859d;
   border-radius: 50%;
 }
