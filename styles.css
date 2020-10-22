@@ -2,20 +2,22 @@ body {
   background-color: pink;
   text-align: left;
   font-family: "Lato", sans-serif;
+}
+h2,
+h3,
+p {
+  margin-left: 15px;
+  margin-right: 15px;
+}
 
-}
-h2,p {
-   margin-left: 10px;
-}
 h2 {
   font-family: "Poppins", sans-serif;
-
 }
 
 button {
   color: white;
   padding: 12px 14px;
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .container {
@@ -27,11 +29,11 @@ button {
 }
 
 .like {
-  background-color: pink;
+  background-color: #f7859d;
   border-radius: 50%;
 }
 
 .add_cart {
-  background-color: pink;
+  background-color: #00d1f6;
   border-radius: 50%;
 }
