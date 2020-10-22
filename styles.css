@@ -8,14 +8,23 @@ h2 {
   font-family: "Poppins", sans-serif;
 }
 
-button{
-  
+button {
+  color: white;
+  padding: 12px 14px; /* Some padding */
+  font-size: 10px;
+  cursor: pointer; /* Mouse pointer on hover */
 }
+
 .container {
   width: 350px;
   height: 520px;
   background: white;
   border-radius: 10px;
   overflow: hidden;
+  margin: Oh0px 20px 30px;
 }
 
+.like {
+  background-color: blue;
+  border-radius: 50%;
+}
