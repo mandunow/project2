@@ -2,16 +2,19 @@ body {
   background-color: pink;
   text-align: left;
   font-family: "Lato", sans-serif;
-}
 
+}
+h2,p {
+   margin-left: 10px;
+}
 h2 {
   font-family: "Poppins", sans-serif;
+
 }
 
 button {
   color: white;
   padding: 12px 14px;
-  font-size: 10px;
   cursor: pointer; 
 }
 
@@ -24,6 +27,11 @@ button {
 }
 
 .like {
-  background-color: blue;
+  background-color: pink;
+  border-radius: 50%;
+}
+
+.add_cart {
+  background-color: pink;
   border-radius: 50%;
 }
