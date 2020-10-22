@@ -10,9 +10,9 @@ h2 {
 
 button {
   color: white;
-  padding: 12px 14px; /* Some padding */
+  padding: 12px 14px;
   font-size: 10px;
-  cursor: pointer; /* Mouse pointer on hover */
+  cursor: pointer; 
 }
 
 .container {
@@ -21,7 +21,6 @@ button {
   background: white;
   border-radius: 10px;
   overflow: hidden;
-  margin: Oh0px 20px 30px;
 }
 
 .like {
