@@ -1,11 +1,13 @@
 body {
   background-color: pink;
   text-align: left;
+  font-family: 'Lato', sans-serif;
 }
   
 h2 {
   font-family: 'Poppins', sans-serif;
 }
+
 .container {
   width: 350px;
   height: 520px;
