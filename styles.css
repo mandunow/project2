@@ -25,10 +25,7 @@ button {
   margin: 5px;
   cursor: pointer;
 }
-button:hover {
-  transition:
-    
-}
+
 .container {
   width: 350px;
   height: 520px;
@@ -43,8 +40,17 @@ button:hover {
   background-color: #f7859d;
   border-radius: 50%;
 }
+.like:hover {
+  background-color: hsl(344, 49%, 51%);
+  transition: all 1s;
+}
+
 
 .add_cart {
   background-color: #00d1f6;
   border-radius: 50%;
+}
+.add_cart:hover {
+  background-color: hsl(208, 74%, 45%);
+    transition: all 1s;
 }
