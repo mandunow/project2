@@ -42,7 +42,7 @@ button {
 }
 .like:hover {
   background-color: hsl(344, 49%, 51%);
-  transition: all 1s;
+  transition: all 200ms;
 }
 
 
@@ -52,5 +52,5 @@ button {
 }
 .add_cart:hover {
   background-color: hsl(208, 74%, 45%);
-    transition: all 1s;
+    transition: all 200ms;
 }
