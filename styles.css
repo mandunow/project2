@@ -4,7 +4,7 @@ body {
   font-family: "Lato", sans-serif;
 }
 h2,
-h3,
+h3, 
 p {
   margin-left: 15px;
   margin-right: 15px;
@@ -20,12 +20,15 @@ button {
   color: white;
   padding: 12px 14px;
   position: relative;
-  left: 190px;
+  left: 200px;
   bottom: 25px;
   margin: 5px;
   cursor: pointer;
 }
-
+button:hover {
+  transition:
+    
+}
 .container {
   width: 350px;
   height: 520px;
@@ -34,7 +37,6 @@ button {
   overflow: hidden;
   position: relative;
   margin: auto;
-  
 }
 
 .like {
