@@ -9,6 +9,7 @@ p {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 12px;
+  color:
 }
 h2 {
   font-family: "Poppins", sans-serif;
@@ -25,8 +26,8 @@ button {
   color: white;
   padding: 12px 14px;
   position: relative;
-  left: 200px;
-  bottom: 74px;
+  left: 140px;
+  bottom: 30px;
   margin: 5px;
   cursor: pointer;
 }
@@ -76,5 +77,6 @@ button {
   border-radius: 50%;
 }
 .share:hover {
-  transitionL all 200ms;
+  background-color: hsl(31, 56%, 47%);
+  transition: all 200ms;
 }
