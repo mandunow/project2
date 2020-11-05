@@ -47,6 +47,9 @@ button {
   background-color: hsl(344, 49%, 51%);
   transition: all 200ms;
 }
+.like:checked {
+  color: #696566;
+}
 .add_cart {
   background-color: #00d1f6;
   border-radius: 50%;
@@ -54,4 +57,7 @@ button {
 .add_cart:hover {
   background-color: hsl(208, 74%, 45%);
   transition: all 200ms;
+}
+.add_cart:focus {
+  color: #696566;
 }
