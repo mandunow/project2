@@ -22,15 +22,20 @@ button {
   background-color: white;
   border: none;
   color: white;
-  display: inline-block;
   padding: 12px 14px;
   position: relative;
   left: 200px;
-  bottom: 45px;
+  bottom: 130px;
   margin: 7px;
   cursor: pointer;
 }
 
+span {
+  color: red;
+  margin-left: 20px;
+  position: relative;
+  bottom: 27px;
+}
 .container {
   width: 350px;
   height: 520px;
@@ -62,7 +67,4 @@ button {
 }
 .add_cart:focus {
   color: #696566;
-}
-.like-amount {
-  position: relative;
 }
