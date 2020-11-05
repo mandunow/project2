@@ -63,3 +63,6 @@ button {
 .add_cart:focus {
   color: #696566;
 }
+.like-amount {
+  position: relative;
+}
