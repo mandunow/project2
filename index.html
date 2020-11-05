@@ -9,11 +9,7 @@
       href="https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@600&display=swap"
       rel="stylesheet"
     />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/icon?family=Material+Icons"
-    />
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>project2</title>
   </head>
 
@@ -35,11 +31,17 @@
         $9.99
       </h3>
       <button class="like">
-        <i class="material-icons">favorite</i>
+    <i onclick="myFunction(this)" class="fa fa-heart-o" aria-hidden="true"></i>
       </button>
       <button class="add_cart">
-        <i class="material-icons">shopping_cart</i>
+       <i class="fa fa-cart-plus" aria-hidden="true"></i>
       </button>
+      
+      <script>
+function myFunction(x) {
+  x.classList.toggle("fa-heart");
+}
+</script>
     </div>
   </body>
 </html>
