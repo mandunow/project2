@@ -54,13 +54,11 @@ button {
   color: #696566;
 }
 .add_cart {
-   background-color: #ffcb3b;
+  background-color: #ffcb3b;
   border-radius: 50%;
 }
 .add_cart:hover {
-  background-color: hsl(208, 74%, 45%);
-  transition: all 200ms;
-    background-color: hsl(31, 56%, 47%);
+  background-color: hsl(31, 56%, 47%);
   transition: all 200ms;
 }
 .add_cart:focus {
@@ -71,5 +69,6 @@ button {
   border-radius: 50%;
 }
 .share:hover {
-
+  background-color: hsl(208, 74%, 45%);
+  transition: all 200ms;
 }
