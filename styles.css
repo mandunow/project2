@@ -9,7 +9,7 @@ p {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 12px;
-  color:
+  color: #5c585a;
 }
 h2 {
   font-family: "Poppins", sans-serif;
@@ -35,9 +35,6 @@ button {
 .like-count {
   color: #a16882;
   font-size: 15px;
-
-
-  
 }
 
 .container {
