@@ -32,11 +32,6 @@ button {
   cursor: pointer;
 }
 
-.like-count {
-  color: #a16882;
-  font-size: 15px;
-}
-
 .container {
   width: 350px;
   height: 520px;
