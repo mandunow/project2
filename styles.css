@@ -8,6 +8,7 @@ h3,
 p {
   margin-left: 20px;
   margin-right: 20px;
+  margin-top: 12px;
 }
 
 h2 {
@@ -21,11 +22,11 @@ button {
   background-color: white;
   border: none;
   color: white;
-  display:inline-block;
+  display: inline-block;
   padding: 12px 14px;
   position: relative;
   left: 200px;
-  bottom: 60px;
+  bottom: 45px;
   margin: 7px;
   cursor: pointer;
 }
