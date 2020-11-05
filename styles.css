@@ -71,3 +71,10 @@ button {
 .add_cart:focus {
   color: #696566;
 }
+.share {
+  background-color: #facd50;
+  border-radius: 50%;
+}
+.share:hover {
+  transitionL all 200ms;
+}
